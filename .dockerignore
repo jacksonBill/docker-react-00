@@ -1,0 +1,5 @@
+.idea
+node_modules
+docker-compose*
+Dockerfile*
+.DS_Store
